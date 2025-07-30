@@ -1,7 +1,7 @@
 <h1 align="center">Hello folks, I'm Mahid Zulfiqar 👋</h1>
 
 <p align="center">
-  🚀 Aspiring MERN STACK Developer | FRONTEND DEVELOPER | Aviation Enthusiast
+  FRONTEND DEVELOPER | 🚀 Aspiring MERN STACK Developer | Aviation Enthusiast
 </p>
 
 ---
