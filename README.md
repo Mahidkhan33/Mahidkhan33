@@ -14,10 +14,10 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** React.js, Node.js, Express.js  
-- **Databases:** MongoDB  
-- **Tools & Platforms:** Git & GitHub, VS Code, Postman, Figma  
+- **Languages:** JavaScript, HTML, CSS, Python 
+- **Frameworks & Libraries:** React.js, Node.js, Express.js, Mediapipe  
+- **Databases:** MongoDB, MySQL  
+- **Tools & Platforms:** Git & GitHub, VS Code, Figma  
 
 ---
 
